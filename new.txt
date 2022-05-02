@@ -1,0 +1,6 @@
+1)firstName - Victoria
+2)lastName - Tutaeva
+3)patronymic - Vasilevna
+4)age - 33
+5)pet - 0
+6)future desired salary - 1500$
